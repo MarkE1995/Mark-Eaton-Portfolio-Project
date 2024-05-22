@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mark-Eaton-Portfolio-Project/static/css/main.479e92f3.css",
+    "main.js": "/Mark-Eaton-Portfolio-Project/static/js/main.183f0d68.js",
+    "static/media/IMG_2568.JPG": "/Mark-Eaton-Portfolio-Project/static/media/IMG_2568.c19d3cf1ed099a1c40e6.JPG",
+    "static/media/Screenshot 2024-05-11 204344.png": "/Mark-Eaton-Portfolio-Project/static/media/Screenshot 2024-05-11 204344.1c58b90ab49a165a5eaa.png",
+    "static/media/Screenshot 2024-03-10 135550.png": "/Mark-Eaton-Portfolio-Project/static/media/Screenshot 2024-03-10 135550.e5028618b6bb116fcaa5.png",
+    "static/media/Screenshot 2024-05-11 205630.png": "/Mark-Eaton-Portfolio-Project/static/media/Screenshot 2024-05-11 205630.05e9153ecd5bdd141ea5.png",
+    "index.html": "/Mark-Eaton-Portfolio-Project/index.html",
+    "main.479e92f3.css.map": "/Mark-Eaton-Portfolio-Project/static/css/main.479e92f3.css.map",
+    "main.183f0d68.js.map": "/Mark-Eaton-Portfolio-Project/static/js/main.183f0d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.479e92f3.css",
+    "static/js/main.183f0d68.js"
+  ]
+}
