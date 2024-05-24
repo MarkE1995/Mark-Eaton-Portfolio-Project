@@ -17,9 +17,9 @@ const Footer = () => {
             <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
           </div>
           <div>
-            <p> 3054 SE 14th ST</p>
+            <p> 8054 Nevis Run Lakewood Ranch</p>
 
-            <p> North Bend, WA 98045</p>
+            <p> Bradenton, FL 34202</p>
           </div>
 
           <div className="phone">
