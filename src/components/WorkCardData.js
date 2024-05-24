@@ -14,14 +14,14 @@ const ProjectCardData = [
     {
         imgsrc: Image2,
         title: 'Fighting Game',
-        view: 'http://127.0.0.1:5502/index.html'
+        view: 'https://blue-vs-red-fighting-game.netlify.app/'
 
     },
 
     {
         imgsrc: Image3,
         title: 'About Me',
-        view: 'http://127.0.0.1:5501/index.html'
+        view: 'https://about-mark-eaton.netlify.app/'
     }
 
 ]
