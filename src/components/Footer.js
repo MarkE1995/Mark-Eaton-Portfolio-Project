@@ -6,8 +6,6 @@ import {
   FaHome,
   FaPhone,
   FaMailBulk,
-  FaFacebook,
-  FaYoutube,
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -51,17 +49,6 @@ const Footer = () => {
             My name is Mark Eaton. I'm a free spirit with a creative side. It is
             my dream to bring people together through my work.
           </p>
-          <div className="social">
-            <FaFacebook
-              size={30}
-              style={{ color: "#fff", marginRight: "1rem" }}
-            />
-
-            <FaYoutube
-              size={30}
-              style={{ color: "#fff", marginRight: "1rem" }}
-            />
-          </div>
         </div>
       </div>
     </div>
